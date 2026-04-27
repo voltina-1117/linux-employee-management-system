@@ -23,3 +23,25 @@ gcc employee_manage.c -o employee_manage -lmysqlclient
 
  运行程序
 ./employee_manage
+
+
+4.  拉到页面最下方，点击绿色的 `Commit new file` 按钮，README就保存好了
+
+
+
+ 五、获取你的项目分享链接
+完成以上步骤后，你的项目就已经全部上传完成了！
+- 你的项目链接就是浏览器地址栏里的网址，格式是：
+`https://github.com/你的用户名/仓库名`
+比如你的这个项目链接就是：
+`https://github.com/voltina-1117/linux-employee-management-system`
+
+复制这个链接，就可以直接放到简历、网申或者智慧团建里，别人点进去就能看到你的完整代码和项目说明啦。
+
+---
+
+后续修改更新代码的方法
+如果之后你修改了代码，不用重新走一遍流程，直接：
+1.  进入仓库页面，点击 `Add file` → `Upload files`
+2.  上传更新后的文件，重复步骤3的提交操作即可
+
